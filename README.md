@@ -56,6 +56,7 @@ when the app is lauched, this will create an Admin user with the following crede
 
 - [Materia Bootswatch](https://www.bootstrapcdn.com/bootswatch/)
 - [CSS Background uiGradients](https://uigradients.com/#Dull)
+- [Repositorio Original](https://github.com/FaztTech/nodejs-notes-app.git)
 
 # Tutorial
 
